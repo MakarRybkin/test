@@ -1,1 +1,2 @@
 print("W")
+print("W")
